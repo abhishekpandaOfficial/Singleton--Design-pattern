@@ -1,0 +1,6 @@
+/Users/abhishekpanda/Desktop/DesignPatterns/Factorypattern/SingletonPattern/bin/Debug/SingletonPattern.exe
+/Users/abhishekpanda/Desktop/DesignPatterns/Factorypattern/SingletonPattern/bin/Debug/SingletonPattern.pdb
+/Users/abhishekpanda/Desktop/DesignPatterns/Factorypattern/SingletonPattern/obj/anycpu/Debug/SingletonPattern.csproj.AssemblyReference.cache
+/Users/abhishekpanda/Desktop/DesignPatterns/Factorypattern/SingletonPattern/obj/anycpu/Debug/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/abhishekpanda/Desktop/DesignPatterns/Factorypattern/SingletonPattern/obj/anycpu/Debug/SingletonPattern.exe
+/Users/abhishekpanda/Desktop/DesignPatterns/Factorypattern/SingletonPattern/obj/anycpu/Debug/SingletonPattern.pdb
